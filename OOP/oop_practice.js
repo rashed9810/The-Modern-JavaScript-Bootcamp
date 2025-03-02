@@ -1,5 +1,4 @@
 // OOP Practice: Classes, Inheritance, Encapsulation
-
 class Animal {
     constructor(name) {
         this.name = name;
